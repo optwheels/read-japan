@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://optwheels.github.io/read-japan/sitemap.xml
